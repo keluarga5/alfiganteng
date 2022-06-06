@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6285102775181@s.whatsapp.net",
+    "ownerName": "Arthur Store",
+    "botName": "Arthur Bot",
+    "footer": "Arthur Store",
+    "sessionName": "art-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "Atakbotz",
+    "instagram": "https://instagram.com/kingarthurkw_",
+    "gamewaktu": 90,
+    "limitCount": 50,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Arthur Store"
+    }
+}
