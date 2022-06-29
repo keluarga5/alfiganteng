@@ -45,7 +45,6 @@ ${readmore}
  • ${prefix}donate
  • ${prefix}dashboard
  • ${prefix}owner
- • ${prefix}groupkaysa
  • ${prefix}cekdrive
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
@@ -76,7 +75,6 @@ ${readmore}
  • ${prefix}start
  • ${prefix}next
  • ${prefix}stop
- • ${prefix}sendprofile
 
 *STORE MENU*
  • ${prefix}list
@@ -173,11 +171,7 @@ ${readmore}
  • ${prefix}cekbapak
 
 *SEARCH MENU*
- • ${prefix}nickff
- • ${prefix}nickml
- • ${prefix}nickpubg
- • ${prefix}nickdomino
- • ${prefix}lirik
+  • ${prefix}lirik
  • ${prefix}grupwa
  • ${prefix}pinterest
  • ${prefix}ytsearch
@@ -193,79 +187,6 @@ ${readmore}
  • ${prefix}meme
  • ${prefix}darkjoke
  • ${prefix}couple
-
-*TEXTPROME*
- • ${prefix}blackpink
- • ${prefix}neon
- • ${prefix}greenneon
- • ${prefix}advanceglow
- • ${prefix}futureneon
- • ${prefix}sandwriting
- • ${prefix}sandsummer
- • ${prefix}sandengraved
- • ${prefix}metaldark
- • ${prefix}neonlight
- • ${prefix}holographic
- • ${prefix}text1917
- • ${prefix}minion
- • ${prefix}deluxesilver
- • ${prefix}newyearcard
- • ${prefix}bloodfrosted
- • ${prefix}halloween
- • ${prefix}jokerlogo
- • ${prefix}fireworksparkle
- • ${prefix}natureleaves
- • ${prefix}bokeh
- • ${prefix}toxic
- • ${prefix}strawberry
- • ${prefix}box3d
- • ${prefix}roadwarning
- • ${prefix}breakwall
- • ${prefix}icecold
- • ${prefix}luxury
- • ${prefix}cloud
- • ${prefix}summersand
- • ${prefix}horrorblood
- • ${prefix}thunder
- • ${prefix}pornhub
- • ${prefix}glitch
- • ${prefix}avenger
- • ${prefix}space
- • ${prefix}ninjalogo
- • ${prefix}marvelstudio
- • ${prefix}lionlogo
- • ${prefix}wolflogo
- • ${prefix}steel3d
- • ${prefix}wallgravity
-
-*PHOTOOXY*
- • ${prefix}shadow
- • ${prefix}cup
- • ${prefix}cup1
- • ${prefix}romance
- • ${prefix}smoke
- • ${prefix}burnpaper
- • ${prefix}lovemessage
- • ${prefix}undergrass
- • ${prefix}love
- • ${prefix}coffe
- • ${prefix}woodheart
- • ${prefix}woodenboard
- • ${prefix}summer3d
- • ${prefix}wolfmetal
- • ${prefix}nature3d
- • ${prefix}underwater
- • ${prefix}golderrose
- • ${prefix}summernature
- • ${prefix}letterleaves
- • ${prefix}glowingneon
- • ${prefix}fallleaves
- • ${prefix}flamming
- • ${prefix}harrypotter
- • ${prefix}carvedwood
- • ${prefix}arcade8bit
- • ${prefix}battlefield4
- • ${prefix}pubg
 
 *BALANCE MENU*
  • ${prefix}topglobal
