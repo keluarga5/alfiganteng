@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6285102775181@s.whatsapp.net",
-    "ownerName": "Arthur Store",
-    "botName": "Arthur Bot",
-    "footer": "Arthur Store",
-    "sessionName": "art-md",
+    "ownerNumber": "6285779386736@s.whatsapp.net",
+    "ownerName": "Syahfa",
+    "botName": "Gerry Bot",
+    "footer": "@iam_syap",
+    "sessionName": "session",
     "pathimg": "./media/logo.jpg",
     "lolkey": "Atakbotz",
-    "instagram": "https://instagram.com/kingarthurkw_",
+    "instagram": "https://instagram.com/@iam_syap",
     "gamewaktu": 90,
     "limitCount": 50,
     "gcount": {
@@ -15,6 +15,6 @@
     },
     "sticker": {
         "packname": "Created By",
-        "author": "Arthur Store"
+        "author": "@iam_syap"
     }
 }
